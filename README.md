@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**George-102/George-102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😜😜😜Hello everybody,I am George Stone,nice to meet you here.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at Sichuan university
+- 🌱 I’m currently learning CS
+- 👯 I’m looking to collaborate on internet entrepreneurship
+- 🤔 I’m looking for help with CS learning
+- 💬 Ask me about learning experience
+- 📫 How to reach me: zhang20190719@gmail.com
+- 😄 Pronouns: don't specify
+- ⚡ Fun fact: I always finish something that I can't finish today tomorrow
+
