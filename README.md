@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at Sichuan university
+- 🔭 I’m currently studying at a chinese university
 - 🌱 I’m currently learning CS
 - 👯 I’m looking to collaborate on internet entrepreneurship
 - 🤔 I’m looking for help with CS learning
