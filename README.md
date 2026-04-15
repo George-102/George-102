@@ -23,6 +23,6 @@ I explore new technologies, programming languages, and concepts to better my kno
 
 ---
 
-![contact_me](./assets/banner.jpg)
+![contact_me](./assets/banner.png)
 
 ![snake](./assets/github-snake.svg)
