@@ -1,8 +1,8 @@
 ![background](./assets/about_banner.png)
 
 - 👋 Hi, I’m [geroge](https://github.com/jeanhua)
-- 🩹 My blog [jeanhua's blog](https://george-102.github.io/)
-- 🏫 I am an undergraduate student in the Computer Science College of Sichuan University
+- 🩹 My blog [Christopher's blog](https://george-102.github.io/)
+- 🏫 I am an student in the Computer Science College of Sichuan University
 
 ## ⚡ Technologies
 
