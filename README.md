@@ -1,8 +1,8 @@
-![background](./assets/background.gif)
+![background](./assets/about_banner.png)
 
-- 👋 Hi, I’m [![@jeanhua](https://img.shields.io/badge/@jeanhua-8A2BE2)](https://github.com/jeanhua)
-- 🩹 My blog [jeanhua's blog](https://www.blog.jeanhua.cn)
-- 🏫 I am an undergraduate student in the Computer Science College of Sichuan University,class of 2023
+- 👋 Hi, I’m [geroge](https://github.com/jeanhua)
+- 🩹 My blog [jeanhua's blog](https://george-102.github.io/)
+- 🏫 I am an undergraduate student in the Computer Science College of Sichuan University
 
 ## ⚡ Technologies
 
@@ -23,6 +23,6 @@ I explore new technologies, programming languages, and concepts to better my kno
 
 ---
 
-![contact_me](./assets/contact_me.png)
+![contact_me](./assets/banner.jpg)
 
 ![snake](./assets/github-snake.svg)
