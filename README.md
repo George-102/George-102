@@ -1,6 +1,6 @@
 ![background](./assets/about_banner.png)
 
-- 👋 Hi, I’m [geroge](https://github.com/jeanhua)
+- 👋 Hi, I’m [geroge](https://github.com/George-102)
 - 🩹 My blog [Christopher's blog](https://george-102.github.io/)
 - 🏫 I am an student in the Computer Science College of Sichuan University
 
