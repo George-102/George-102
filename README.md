@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m [Christopher](https://github.com/George-102)
 - 🩹 My blog [Christopher's blog](https://george-102.github.io/)
+- ☀️ [SolGlow](https://solglow.pages.dev/ "A website dedicated to assisting individuals in skin care and sun protection")
 - 🏫 I am an student in the Computer Science College of Sichuan University
 
 ## ⚡ Technologies
