@@ -1,9 +1,8 @@
-![background](./assets/about_banner.png)
+- 👋 Hi, I’m Christopher
 
-- 👋 Hi, I’m [Christopher](https://github.com/George-102)
 - 🩹 My blog [Christopher's blog](https://george-102.github.io/)
 - ☀️ [SolGlow](https://solglow.pages.dev/ "A website dedicated to assisting individuals in skin care and sun protection")
-- 🏫 I am an student in the Computer Science College of Sichuan University
+- 📚 [AI-CS Learning Guide](https://george-102.github.io/ai-cs-guide/)
 
 ## ⚡ Technologies
 
