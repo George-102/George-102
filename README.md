@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Christopher
-
 - 🩹 My blog [Christopher's blog](https://george-102.github.io/)
-- ☀️ [SolGlow](https://solglow.pages.dev/ "A website dedicated to assisting individuals in skin care and sun protection")
-- 📚 [AI-CS Learning Guide](https://george-102.github.io/ai-cs-guide/)
+- 📚 [AI-CS Learning Guide](https://george-102.github.io/AICS_Learning_Guide/)
 
 ## ⚡ Technologies
 
