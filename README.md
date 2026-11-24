@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Christopher
-- 🩹 My blog [Christopher's blog](https://george-102.github.io/)
+- 👋 Hi, I’m [Christopher Chang](https://personal-digital-universe.pages.dev/)
+- 🩹 My blog [Daily Delta](https://george-102.github.io/daily-delta/)
 - 📚 [AI-CS Learning Guide](https://george-102.github.io/AICS_Learning_Guide/)
 
 ## ⚡ Technologies
@@ -21,6 +21,6 @@ I explore new technologies, programming languages, and concepts to better my kno
 
 ---
 
-![contact_me](./assets/banner.png)
+![contact_me](./assets/banner.jpg)
 
 ![snake](./assets/github-snake.svg)
